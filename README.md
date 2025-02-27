@@ -1,12 +1,12 @@
 # 🎬 Movie Data Analysis
 
-Welcome to the **Movie Data Analysis Project**! This project explores the relationship between various movie attributes, such as budget, gross revenue, and runtime, using Python for data analysis and visualization. 📊🎥
+Welcome to the **Movie Data Analysis Project**! This project explores the relationship between various movie attributes, such as budget, gross revenue, and runtime, using Python for data analysis and visualisation. 📊🎥
 
 ---
 
 ## 🚀 Project Overview
 
-This project analyzes movie data to identify trends and correlations between different features like budget, gross revenue, and ratings. The goal is to uncover insights regarding the financial and critical success of movies using statistical analysis and data visualization techniques.
+This project analyses movie data to identify trends and correlations between different features like budget, gross revenue, and ratings. The goal is to uncover insights regarding the financial and critical success of movies using statistical analysis and data visualisation techniques.
 
 ---
 
@@ -14,7 +14,7 @@ This project analyzes movie data to identify trends and correlations between dif
 
 - **Pandas**: Data cleaning and manipulation.
 - **NumPy**: Numerical computations.
-- **Seaborn**: Data visualization.
+- **Seaborn**: Data visualisation.
 - **Matplotlib**: Plotting graphs and charts.
 - **SciPy**: Statistical analysis (ANOVA test).
 
@@ -31,9 +31,9 @@ This project analyzes movie data to identify trends and correlations between dif
 - Display dataset information and check for missing values.
 - Sort movies based on `gross` revenue.
 
-### 3️⃣ Visualizing Budget vs Gross Revenue
+### 3️⃣ Visualising Budget vs Gross Revenue
 - Use scatter plots to examine the correlation between `budget` and `gross revenue`.
-- Implement a regression plot using Seaborn to visualize the trend.
+- Implement a regression plot using Seaborn to visualise the trend.
 
 ### 4️⃣ Correlation Analysis
 - Compute the Pearson correlation between numerical variables such as `budget`, `gross`, `runtime`, `score`, `votes`, and `year`.
@@ -73,9 +73,9 @@ This project analyzes movie data to identify trends and correlations between dif
 
 ---
 
-## 📊 Visualizations
+## 📊 Visualisations
 
-This project includes visualizations such as:
+This project includes visualisations such as:
 - **Scatter plot**: Budget vs Gross Revenue
 - **Regression plot**: Trendline for budget and gross
 - **Heatmap**: Correlation matrix for numerical features
